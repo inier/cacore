@@ -1,0 +1,22 @@
+{
+  "name": "cacss",
+  "version": "1.0.0",
+  "description": "自建css前端框架。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inier/cacss.git"
+  },
+  "keywords": [
+    "cacss"
+  ],
+  "author": "inier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inier/cacss/issues"
+  },
+  "homepage": "https://github.com/inier/cacss#readme"
+}
